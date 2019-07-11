@@ -1,4 +1,4 @@
-motif	num_nodes	erdos_p	num_nodes	mean
+motif	num_nodes	barabasi_degree	num_nodes	mean
 1	200	1	375	472
 2	200	1	0	0
 3	200	1	0	4
