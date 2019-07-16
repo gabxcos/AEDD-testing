@@ -1,4 +1,4 @@
-motif	num_nodes	erdos_p	num_nodes	mean	perc_err
+motif	num_nodes	erdos_p	occurences	mean
 1	100	0.001	0	4
 2	100	0.001	0	0
 3	100	0.001	0	0

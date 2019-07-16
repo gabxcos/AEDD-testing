@@ -1,4 +1,4 @@
-motif	num_nodes	forward_burning_p	num_nodes	mean	perc_err
+motif	num_nodes	forward_burning_p	occurences	mean
 1	200	0.1	0	129
 2	200	0.1	0	0
 1	200	0.1	0	127
